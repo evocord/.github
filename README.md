@@ -1,1 +1,3 @@
-# .github
+# evocord 
+
+###### snitchers get stiches
